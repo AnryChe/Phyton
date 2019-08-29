@@ -1,0 +1,1 @@
+ptint("Goodbye, good night!")
